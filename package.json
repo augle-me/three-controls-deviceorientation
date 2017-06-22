@@ -1,0 +1,19 @@
+{
+  "name": "three-controls-deviceorientation",
+  "version": "1.0.0",
+  "description": "Module version of threejs deviceorientation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augle-me/three-controls-deviceorientation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augle-me/three-controls-deviceorientation/issues"
+  },
+  "homepage": "https://github.com/augle-me/three-controls-deviceorientation#readme"
+}
